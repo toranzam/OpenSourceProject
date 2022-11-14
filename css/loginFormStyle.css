@@ -27,3 +27,18 @@ body
     color: #333;
 
 }
+.Login .inputBox
+{
+    position: relative;
+    
+}
+.Login .inputBox input
+{
+    position: relative;
+    width: 99%;
+    padding: 10px 1px;
+    outline: none;
+    border: 2px solid #555;
+    font-size: 1em;
+    color: #333;
+}
