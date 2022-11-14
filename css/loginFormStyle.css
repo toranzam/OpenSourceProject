@@ -17,3 +17,13 @@ body
     gap: 20px;
     box-shadow: 0 25px 50px rgba(0, 0, 0, 1);
 }
+.Login h2
+{
+    font-weight: 500;
+    border-left: 15px solid #333333;
+    line-height: 1em;
+    padding-left: 10px;
+    transition: 0.5s;
+    color: #333;
+
+}
