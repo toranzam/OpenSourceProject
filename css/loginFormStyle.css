@@ -4,13 +4,13 @@ body
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #000000;
+    background: #000000; /*1번*/
 }
 .Login
 {
     position: relative;
     padding: 50px;
-    background: rgb(56, 55, 55);
+    background: rgb(56, 55, 55); /*2번*/
     width: 400px;
     display: flex;
     flex-direction: column;
@@ -45,7 +45,7 @@ body
 .Login .inputBox input#btn
 {
     border: none;
-    background: #474747;
+    background: #474747; /*3번*/
     color: rgb(75, 51, 51);
     transition: 0.5s;
     font-size: 1.1em;
@@ -61,7 +61,7 @@ body
 }
 .Login .group a
 {
-    color: #333;
+    color: #333; /*4번*/
     text-decoration: none;
 }
 .Login .group a:nth-child(2)
