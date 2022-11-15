@@ -4,13 +4,13 @@ body
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #000000;
+    background: #20173179;
 }
 .Login
 {
     position: relative;
     padding: 50px;
-    background: rgb(56, 55, 55);
+    background: rgb(26, 45, 95);
     width: 400px;
     display: flex;
     flex-direction: column;
@@ -45,7 +45,7 @@ body
 .Login .inputBox input#btn
 {
     border: none;
-    background: #474747;
+    background: #20173179;
     color: rgb(75, 51, 51);
     transition: 0.5s;
     font-size: 1.1em;
