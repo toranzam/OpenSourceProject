@@ -10,7 +10,7 @@ body
 {
     position: relative;
     padding: 50px;
-    background: rgb(26, 45, 95);
+    background: rgb(16, 45, 95);
     width: 400px;
     display: flex;
     flex-direction: column;
