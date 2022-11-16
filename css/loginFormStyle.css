@@ -10,7 +10,7 @@ body
 {
     position: relative;
     padding: 50px;
-    background: rgb(56, 55, 55); /*2번*/
+    background: rgb(14, 45, 95);
     width: 400px;
     display: flex;
     flex-direction: column;
