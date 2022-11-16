@@ -4,7 +4,7 @@ body
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #000000;
+    background: #d6e6f5; /*1번*/
 }
 .Login
 {
@@ -45,7 +45,7 @@ body
 .Login .inputBox input#btn
 {
     border: none;
-    background: #474747;
+    background: #ffffff; /*3번*/
     color: rgb(75, 51, 51);
     transition: 0.5s;
     font-size: 1.1em;
@@ -61,7 +61,7 @@ body
 }
 .Login .group a
 {
-    color: #333;
+    color: #333; /*4번*/
     text-decoration: none;
 }
 .Login .group a:nth-child(2)
